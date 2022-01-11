@@ -1,5 +1,5 @@
 function doNothing()
 {
-    console.log("Boop");
-    console.log("BEEP");
+    console.log("test");
+    console.log("test");
 }
